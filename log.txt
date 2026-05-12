@@ -4,3 +4,4 @@ Refactored documentation layout
 Added development checklist
 Improved repository organization
 Updated testing notes
+Added temporary debug information
