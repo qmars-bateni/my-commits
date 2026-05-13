@@ -6,3 +6,4 @@ Improved repository organization
 Updated testing notes
 Added temporary debug information
 Improved formatting consistency
+Added feature planning notes
