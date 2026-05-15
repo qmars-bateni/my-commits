@@ -7,3 +7,4 @@ Updated testing notes
 Added temporary debug information
 Improved formatting consistency
 Added feature planning notes
+Updated project roadmap
