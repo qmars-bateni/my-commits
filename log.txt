@@ -11,3 +11,4 @@ Updated project roadmap
 Cleaned unused sections
 Added deployment reminder
 Improved naming consistency
+Updated build instructions
