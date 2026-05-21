@@ -14,3 +14,4 @@ Improved naming consistency
 Updated build instructions
 Added API integration notes
 Fixed typo in documentation
+Improved project description
